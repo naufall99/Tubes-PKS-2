@@ -29,6 +29,6 @@ Program ini, pengguna dapat memasukkan komponen-komponen ke dalam rangkaian list
 | File |      link     |
 | ------ | ------ |
 | Laporan | - |
-| Program | - |
+| Program | https://github.com/naufall99/Tubes-PKS-2/blob/main/vscode_pbl.cpp |
 | Program running | https://replit.com/@NaufalFarros1/Simulator-Rangkaian-listrik-sederhana#main.cpp|
 | Video | - |
