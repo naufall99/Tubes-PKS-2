@@ -9,7 +9,7 @@ Program ini, pengguna dapat memasukkan komponen-komponen ke dalam rangkaian list
 - Asslam Abid_122130052_Teknik Elektro
 
 ## Pengantar Komputer & Software 2
-- Nama Dosen : Asep Nurul Ajiid Mustofa
+  Nama Dosen : Asep Nurul Ajiid Mustofa
 - Nama asisten praktikum 1 : Marchel Ferry Timoteus Samosir
 - Nama asistem praktikum 2 : David Panondang Sinaga
 
@@ -30,5 +30,5 @@ Program ini, pengguna dapat memasukkan komponen-komponen ke dalam rangkaian list
 | ------ | ------ |
 | Laporan | - |
 | Program | - |
-| Program running | (https://replit.com/@NaufalFarros1/Simulator-Rangkaian-listrik-sederhana#main.cpp)|
+| Program running | https://replit.com/@NaufalFarros1/Simulator-Rangkaian-listrik-sederhana#main.cpp|
 | Video | - |
